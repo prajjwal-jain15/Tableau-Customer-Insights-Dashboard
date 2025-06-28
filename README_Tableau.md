@@ -24,7 +24,7 @@ This project presents a dynamic Tableau dashboard built to analyze customer purc
 
 ## 📷 Preview
 
-![Dashboard Screenshot](./Customer_Insights_Tableau_Dashboard.png)
+![Dashboard Screenshot](Screenshot 2025-06-28 125539.png)
 
 ---
 
